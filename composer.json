@@ -1,0 +1,19 @@
+{
+    "name": "maxnz/xml-builder",
+    "description": "Build XML easily and concisely",
+    "keywords": ["XML"],
+    "authors": [
+        {
+            "name": "Max Narvaez",
+            "email": "mnmax.narvaez3@gmail.com",
+            "homepage": "https://github.com/maxnz",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "XMLBuilder\\": "src/XMLBuilder/"
+        }
+    },
+    "license": "MIT"
+}
