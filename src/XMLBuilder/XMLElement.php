@@ -1,6 +1,6 @@
 <?php
 
-namespace GTS\Tools\Util\XML;
+namespace XMLBuilder;
 
 use DOMDocument;
 use DOMElement;
